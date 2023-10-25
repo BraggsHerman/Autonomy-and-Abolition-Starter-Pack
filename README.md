@@ -1,5 +1,5 @@
 # Autonomy and Abolition Learning List Starter Pack
-Welcome to The List™️! This will be a primer on the ideas of autonomy, liberation, and abolition. The order is presented linearly but can be explored in any order based on your interests. Just remember, an important aspect of this is to think for yourself. Once you get through this, you can move on to the [autonomy & abolition learning resources (deep dive_full list)]()!
+Welcome to The List™️! This will be a primer on the ideas of autonomy, liberation, and abolition. The order is presented linearly but can be explored in any order based on your interests. Just remember, an important aspect of this is to think for yourself. Once you get through this, you can move on to the [autonomy & abolition learning resources (deep dive_full list)](https://github.com/BraggsHerman/Autonomy-and-Abolition-Starter-Pack/blob/main/autonomy%20%26%20abolition%20learning%20resources%20(deep%20dive_full%20list).md)!
 ---
 - [How to Start Revolution in 10 Easy Steps | Un/Center](https://youtu.be/rltsRRcmj94) - YouTube Video - 18min 35sec
 - [Dual Power: A Simple Explanation](https://blackautonomy.libsyn.com/dual-power-a-simple-explanation) - Podcast - 29min 43sec
